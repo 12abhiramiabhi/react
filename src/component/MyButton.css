@@ -1,0 +1,40 @@
+.btn {
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 3rem;
+}
+
+.btn:hover {
+    background-color: aqua;
+    color: blueviolet;
+    transition: all 0.4s;
+}
+
+.main {
+    background-color: white;
+    width: 400px;
+    padding: 30px;
+    margin-left: 250px;
+    margin-top: 80px;
+
+}
+
+body {
+    background-color: black;
+
+}
+
+.btn1 {
+    margin-top: 20px;
+    color: black;
+}
+
+.h1 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.image {
+    width: 70px;
+
+}
