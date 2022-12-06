@@ -1,21 +1,37 @@
-.btn {
-    background-color: aqua;
+/* .btn {
+    background-color: rgba(14, 107, 247, 0.808);
     padding: 10px;
     border-radius: 3rem;
+    margin-left: 300px;
+    margin-bottom: 80px;
+    
+} */
+.btn{
+    background-color: rgba(14, 107, 247, 0.808);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    margin-left: 220px;
+    margin-bottom: 1px;
+    border-radius: 3rem;
+    
 }
 
 .btn:hover {
-    background-color: aqua;
+    background-color: rgba(14, 107, 247, 0.808);
     color: blueviolet;
     transition: all 0.4s;
 }
 
 .main {
+    display: block;
+    margin-left: 450px;
+    margin-top: 80px;
     background-color: white;
     width: 400px;
-    padding: 30px;
-    margin-left: 250px;
-    margin-top: 80px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 40px;
 
 }
 
@@ -25,16 +41,69 @@ body {
 }
 
 .btn1 {
-    margin-top: 20px;
+    /* margin-top: 20px; */
     color: black;
 }
 
-.h1 {
-    font-size: 40px;
+/* .h1 {
+    font-size: 26px;
     font-weight: 800;
+    margin-left: 70px;
+    text-align: start;
+
+} */
+
+.h1{
+    font-size: 26px;
+    text-align: left;
+
 }
 
-.image {
-    width: 70px;
 
+.image {
+    width: 50px;
+    width: 50px;
+ 
+}
+.image1{
+    width: 30px;
+    height: 30px;
+    margin-left: 180px;
+    margin-bottom: 5px;
+    /* margin-left: 300px;
+    padding-left: 20px; */
+
+}
+.para{
+    font-size: 25px;
+    margin-top: 1px;
+    text-align: start;
+}
+.head-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.a{
+    margin-bottom: 10px;
+
+    
+}
+/* .main1{
+    padding: 20px;
+    height: 350px;
+} */
+.h2{
+    margin-left: 20px;
+    margin-top: 1px;
+    text-align: justify;
+}
+.a1{
+    margin-left: 20px;
+}
+.set{
+    display: block;
+    justify-content: space-around;
+    align-items: center;
+    padding: 7px;
 }
