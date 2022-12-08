@@ -18,19 +18,18 @@ export default function SingleTweet() {
                         <img className="settings" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjCYn3B5tQmMP-KCGExmgkolgpdZXbuWbxynOTyqqqA&s" alt="" />
                     </div>
                 </div>
-                <p className="para" >it just got eaiser to  tweet on
-                    twitter.com. You can now compose
+                <p className="para" >It just got eaiser to  tweet on
+                     twitter.com. You can now compose
                     new  tweets at the top of your home timeline</p>
-                <div className="main2">
+                <div className="images">
                     <img className="img33" src="https://png.pngtree.com/png-vector/20191005/ourlarge/pngtree-share-icon-isolated-on-background-png-image_1790415.jpg" alt="" />
                     <img className="img34" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWu3gyII7w5pj11m7uAPs464DkQLj8I_i_tf5CW87sCbWcXVD7SwwZstl5RVR2ZO9O7w&usqp=CAU" alt="" />
                     <img className="img35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-5M6-Mqko6a5zY655RYs-i8ZxAIiim6helqxag4O&s" alt="" />
-                </div>
-                <div className="main2" >
-                    <hr /><p className="para2" >RETWEETS     FAVORITES</p>
+                </div><hr />
+                
+                    <p className="para2" >RETWEETS     FAVORITES</p>
                     <p className="para3">539    503 </p><hr />
-                    <p>6.42pm 5 nov 2014</p>
-                </div>
+                    <p>6.42pm 5 nov 2014 </p>  
             </div>
 
         </div>
