@@ -43,7 +43,7 @@
 /* .btn1 {
 
     color: black;
-} */ 
+} */
 
 
 
@@ -96,7 +96,7 @@
 
 /* ///////////// */
 
-.main{
+.main {
     /* display: block;
     margin-left:500px ;
     margin-top: 250px;
@@ -114,69 +114,118 @@
     padding-top: 5px;
     padding-bottom: 50px;
 }
- .main2{
-    border-bottom: 1px solid #e6e6e6;
-    padding: 5px;
-} 
 
-.head{
+.main2 {
+
+    padding: 5px;
+}
+
+.head {
     /* font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     text-align: left; */
 
-    margin-left: 20px;
-    margin-top: 1px;
+    margin-left: 0px;
+    margin: 0px;
     text-align: justify;
     font-size: 20px;
+
 }
-.para{
+
+.para {
     /* text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif; */
 
     font-size: 25px;
     margin-top: 1px;
     text-align: start;
-    border-bottom: 1px solid #e6e6e6;
+
     padding: 5px;
-    
-}
-.para3{
-    color:rgba(41, 41, 167, 0.685);
+
 }
 
-.head-box{
+.para3 {
+    color: rgba(41, 41, 167, 0.685);
+    font-size: 20px;
+}
+
+.head-box {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.image{
+
+.box {
+    display: flex;
+
+
+}
+
+.image {
     width: 50px;
     height: 50px;
+
 }
-.settings{
+
+.settings {
     width: 20px;
     height: 20px;
 }
-.set{
+
+.set {
     display: flex;
     justify-content: space-around;
     padding: 5px;
     align-items: center;
 }
-body{
+
+body {
     background-color: black;
 }
+
 .btn:hover {
     background-color: black;
     color: white;
     transition: all 0.4s;
 }
-.btn{
+
+.btn {
     background-color: rgba(14, 107, 247, 0.808);
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: smaller;
-    margin-left: 220px;
+    margin-left: 70px;
     margin-bottom: 1px;
     padding: 7px;
+    border: none;
+    border-radius: 4px;
+}
+
+.a {
+    margin: 0px;
+    text-decoration: none;
+}
+
+.img33 {
+    width: 20px;
+    height: 20px;
+}
+
+.img34 {
+    width: 20px;
+    height: 20px;
+}
+
+.img35 {
+    width: 20px;
+    height: 20px;
+}
+
+.main2 {
+    /* display: flex; */
+    /* justify-content: space-evenly;
+    align-items: center;
+    width: 150px;
+    opacity: 0.3;
+    margin-left: 20px; */
 }
